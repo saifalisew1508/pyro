@@ -9,7 +9,7 @@
     "MissCutie",
     "MissCutie_Bot"
   ],
-  "repository": "https://github.com/saifalisew1508/MissCutie_Bot",
+  "repository": "https://github.com/saifalisew1508/Pyro",
   "website": "https://divideprojects.com",
   "success_url": "https://t.me/DivideProjects",
   "env": {
@@ -101,7 +101,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
