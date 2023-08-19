@@ -21,12 +21,12 @@
     "APP_ID": {
       "description": "Get API_ID from my.telegram.org, used for pyrogram base.",
       "required": true,
-      "value": ""
+      "value": "23738177"
     },
     "API_HASH": {
       "description": "Get API_HASH from my.telegram.org, used for pyrogram base.",
       "required": true,
-      "value": ""
+      "value": "d54a6609d5cc5ba0094ee206791e1490"
     },
     "DB_URI": {
       "description": "Your MongoDB connection string.",
@@ -41,17 +41,17 @@
     "OWNER_ID": {
       "description": "Your user ID as an integer.",
       "required": true,
-      "value": ""
+      "value": "1930139488"
     },
     "SUPPORT_GROUP": {
       "description": "Your Telegram support group chat username where user's can contact in case of a problem..",
       "required": true,
-      "value": "DivideProjects"
+      "value": "PublicSource_Chat"
     },
     "MESSAGE_DUMP": {
       "description": "Event logs channel where bot will send updates. Starts with -100",
       "required": true,
-      "value": ""
+      "value": "-1001660668029"
     },
     "PREFIX_HANDLER": {
       "description": "Something like '/' to execute commands.",
