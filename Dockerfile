@@ -1,8 +1,13 @@
-FROM ghcr.io/saifalisew1508/docker-python-base:latest
-WORKDIR /app
-COPY pyproject.toml poetry.lock .
-RUN poetry export -f requirements.txt --without-hashes --output requirements.txt
-RUN pip install --disable-pip-version-check -r requirements.txt
-COPY . .
-ENTRYPOINT ["python3"]
-CMD ["-m", "MissCutie"]
+FROM python:3.11.4-slim-buster
+
+# Set the working directory
+WORKDIR /MissCutie/
+
+# Copy the local directory contents to the container
+COPY . /MissCutie/
+
+# Install Python dependencies
+RUN pip3 install --no-cache-dir -U -r requirements.txt
+
+# Starting the application
+CMD ["python3", "-m", "MissCutie"]
