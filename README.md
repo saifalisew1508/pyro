@@ -1,13 +1,13 @@
-# MissCutie_Bot
+## MissCutie
 
 <p align='center'>
-  <img src="https://img.shields.io/github/forks/DivideProjects/MissCutie_Bot?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/stars/DivideProjects/MissCutie_Bot?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/issues/DivideProjects/MissCutie_Bot?style=flat-square" alt="Issues">
-  <img src="https://img.shields.io/github/license/DivideProjects/MissCutie_Bot?style=flat-square" alt="LICENSE">
-  <img src="https://img.shields.io/github/contributors/DivideProjects/MissCutie_Bot?style=flat-square" alt="Contributors">
-  <img src="https://img.shields.io/github/repo-size/DivideProjects/MissCutie_Bot?style=flat-square" alt="Repo Size">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/saifalisew1508/MissCutie_Bot&amp;title=Profile%20Views" alt="Views">
+  <img src="https://img.shields.io/github/forks/saifalisew1508/MissCutieBot?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/stars/saifalisew1508/MissCutieBot?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/issues/saifalisew1508/MissCutieBot?style=flat-square" alt="Issues">
+  <img src="https://img.shields.io/github/license/saifalisew1508/MissCutieBot?style=flat-square" alt="LICENSE">
+  <img src="https://img.shields.io/github/contributors/saifalisew1508/MissCutieBot?style=flat-square" alt="Contributors">
+  <img src="https://img.shields.io/github/repo-size/saifalisew1508/MissCutieBot?style=flat-square" alt="Repo Size">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/saifalisew1508/MissCutieBot&amp;title=Profile%20Views" alt="Views">
 </p>
 
 <p align='center'>
