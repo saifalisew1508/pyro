@@ -23,7 +23,7 @@ importlib-metadata==6.0.0
 isort==5.11.5
 lazy-object-proxy==1.9.0
 lxml==4.9.2
-lxml==4.6.4  # Existing version found
+lxml==4.9.1  # Existing version found
 mccabe==0.7.0
 mypy-extensions==1.0.0
 mypy-extensions==0.4.3  # Existing version found
