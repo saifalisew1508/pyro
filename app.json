@@ -10,8 +10,8 @@
     "MissCutie_Bot"
   ],
   "repository": "https://github.com/saifalisew1508/Pyro",
-  "website": "https://divideprojects.com",
-  "success_url": "https://t.me/DivideProjects",
+  "website": "https://saifalisew1508.vercel.app",
+  "success_url": "https://t.me/PublicSource_Project",
   "env": {
     "BOT_TOKEN": {
       "description": "Your telegram bot token, get from @Botfather in telegram.",
