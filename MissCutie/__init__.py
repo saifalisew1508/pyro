@@ -1,5 +1,6 @@
 import logging
-from logging import FileHandler, StreamHandler
+from logging import (FileHandler, StreamHandler, basicConfig,
+                     getLogger)
 from datetime import datetime
 from importlib import import_module as imp_mod
 from os import environ, mkdir, path
