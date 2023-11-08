@@ -1,5 +1,4 @@
-import logging
-from logging import (FileHandler, StreamHandler, basicConfig,
+from logging import (INFO, WARNING, DEBUG, ERROR, CRITICAL, FileHandler, StreamHandler, basicConfig,
                      getLogger)
 from datetime import datetime
 from importlib import import_module as imp_mod
