@@ -21,7 +21,7 @@ stdout_handler = StreamHandler(stdout)
 
 basicConfig(
     format="%(asctime)s - [MissCutie_Bot] - %(levelname)s - %(message)s",
-    level=INFO,
+    level=DEBUG,
     handlers=[file_handler, stdout_handler],
 )
 
